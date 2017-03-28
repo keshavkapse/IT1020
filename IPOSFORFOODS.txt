@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PIP and IPOS
 
 fisrt Serbia rollout
@@ -8,3 +9,21 @@ RUSSIA ROLLOUT
 
 
 INDIA Store
+=======
+PIP and IPOS
+
+fisrt Serbia rollout
+
+RUSSIA ROLLOUT
+
+50 Percent of ipos stores works
+
+
+INDIA Store
+
+indai ikea store 25 + might be
+
+ikea IPOS rollout 50% stores today globally
+
+new line
+>>>>>>> d9846891c9af2e547c2280c7ebd12ac7699c9dc2
